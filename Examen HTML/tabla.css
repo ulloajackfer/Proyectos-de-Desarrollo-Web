@@ -1,0 +1,36 @@
+body{
+    background-image: url(fondo2.jpg);
+    background-size: 100%;
+    background-attachment: fixed;
+}
+table{
+    width: 100%;
+    max-width: 700px;
+    min-width: 520px;
+    margin: auto;
+    border: 1px solid black;
+}
+td{
+    width: 50%;
+}
+table, tr{
+    border: 1px transparent black;
+    border-collapse: separate;
+    border-spacing: 10px;
+    text-align: center;
+    padding: 1px;
+}
+table, td:hover{
+    background-color:aqua;
+}
+table, th{
+    background-color:transparent;
+}
+
+table th{
+    text-align: center;
+}
+footer{
+    text-align: right;
+    font-style: italic;
+}

@@ -1,0 +1,28 @@
+.container{
+    min-width: 1000;
+    max-width: 10000;
+    width: 720;
+    text-align: center;
+    border: 1px;
+    border-color: black;
+    border-style: solid;
+}
+#linea{
+    border: 1px;
+    border-color: black;
+    border-style: solid;
+}
+#name{
+    text-align: center;
+}
+img{
+    height: 100%;
+    max-width: 100%;
+}
+#linea2{
+    border: 3px solid black;
+}
+#letra{
+    font-family: fantasy;
+    font-style: italic;
+}

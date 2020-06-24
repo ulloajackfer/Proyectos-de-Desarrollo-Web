@@ -1,0 +1,40 @@
+
+#Titulos h1{
+    text-align: center;
+}
+div#Eslogan{
+    position: absolute;
+    top: 50px;
+    height: 100px;
+    width: 300px;
+}
+div#Imagen{
+    position: relative;
+    width: 510px;
+    height: 500px;
+    left: 410px;
+ }
+
+
+
+#button {
+    padding: 0;
+    }
+#button li {
+    display: inline-block;
+   }
+   #button li a {   
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: 10px;
+    font-weight: 900;
+    text-decoration: none;
+    float: right;
+    padding: 20px 85px;
+    background-color: #2175bc;
+    color: black;
+    
+    }
+    #button li a:hover{
+        background-color: floralwhite;
+    }   
